@@ -1,0 +1,25 @@
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c7ec943[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mtest.log[m
+[1mdiff --git a/test1.txt b/test1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ce01362[m
+[1m--- /dev/null[m
+[1m+++ b/test1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello[m
+[1mdiff --git a/test2.txt b/test2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f8d728c[m
+[1m--- /dev/null[m
+[1m+++ b/test2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mwww[m
+[1mdiff --git "a/\346\265\267\350\276\271-\346\234\211\346\260\264\345\215\260.png" "b/\346\265\267\350\276\271-\346\234\211\346\260\264\345\215\260.png"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..1fad65c[m
+Binary files /dev/null and "b/\346\265\267\350\276\271-\346\234\211\346\260\264\345\215\260.png" differ
